@@ -32,3 +32,6 @@ Starting a timer launches a Live Activity to show the remaining time. Progress u
 ## About
 > 🧪 This project was created as a personal experiment to learn how to implement Live Activities and Dynamic Island support in iOS apps.
 > Feel free to use or modify this project for learning purposes.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
